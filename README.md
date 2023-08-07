@@ -38,7 +38,7 @@ One of my strengths lies in implementing game mechanics that can be easily expan
 ### In short
 Overall, I am a creative individual with a deep passion for programming and game development. My journey has taught me valuable skills and insights, and I am excited to apply them in making a positive impact on the gaming industry.
 
-
+## Contact
 Email: bonneval.raphael@gmail.com
 
 Phone: (+33) 7 58 62 97 61
