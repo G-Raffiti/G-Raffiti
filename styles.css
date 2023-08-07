@@ -1,0 +1,91 @@
+ 
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.corps {
+  max-width: 50vw; /* Set the maximum width to 50% of the viewport width */
+  min-width: 700px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+header h1 {
+  font-size: 2.5rem;
+}
+
+header p {
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+section {
+  padding: 2rem 1rem;
+}
+
+section h2 {
+  font-size: 2rem;
+  border-bottom: 2px solid #333;
+  padding-bottom: 0.5rem;
+}
+
+.project {
+  margin-bottom: 1rem;
+}
+
+.project h3 {
+  font-size: 1.5rem;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+
+/* Add new CSS rules for the images */
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.image-left,
+.image-right {
+  width: 20%;
+  float: left;
+  margin: 10px;
+}
+
+.image-right {
+  float: right;
+}
+
+/* Adjust the image sizes and margins as needed */
+.image-left img,
+.image-right img {
+  max-width: 100%;
+  max-height: calc(7 * 1.2em); /* Approximately 4 text lines in height */
+  display: block;
+}
+
+
+.image-center{
+  width: 20%;
+  margin: 10px;
+  float: left;
+  max-width: 50px;
+  max-height: 50px;
+  display: block;
+}
