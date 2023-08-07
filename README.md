@@ -1,107 +1,44 @@
-## Raphael Bonneval's Portfolio
-Computer Science Student | Aspiring Game Developer | Aspiring Artist
+# Raphael Bonneval's Portfolio
+### Computer Science Student | Aspiring Game Developer | Aspiring Artist
 
-  <div class="corps">
 
-    <section id="projects">
-      <h2>Projects</h2>
-      <div class="project">
-        <h3>Game Project 1</h3>
-        <p>
-          Description of your first game project. You can also include screenshots or demo links here.
-        </p>
-        <!-- Insert an image for your game project -->
-        <img src="images/game_project1.png" alt="Game Project 1 Screenshot">
-      </div>
+## Projects
+Description of your first game project. You can also include screenshots or demo links here.
+![Avatar](/images/avatar.jpg)
 
-      <div class="project">
-        <h3>Artwork Showcase</h3>
-        <p>
-          Showcase some of your creative artwork. You can use images to display your drawings or digital art.
-        </p>
-        <!-- Insert an image for your artwork showcase -->
-        <img src="images/artwork_showcase.jpg" alt="Artwork Showcase">
-      </div>
-      <!-- Add more projects or categories as necessary -->
-    </section>
 
-    <section id="about">
-      <h2>About Me</h2>
+## Artwork Showcase</h3>
+Showcase some of your creative artwork. You can use images to display your drawings or digital art.
+![Avatar](/images/avatar.jpg)
 
-      <section id="intro">
-        <div class="content">
-          <div class="image-left">
-            <img src="images/avatar.jpg" alt="Education Image">
-          </div>
-          <h4>Hello there!</h4>
-          <p>I'm John, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon Unity, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning C#. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors.</p>
-        </div>
-      </section>
 
-      <section id="skills">
-        <div class="content">
-          <h4>Diverse Skill Set</h4>
-          <p>One thing that sets me apart is my diverse skill set. While exploring the world of code, I also discovered my talent for digital art and e-painting. The thrill of seeing my drawings come alive on the screen when imported into the games I create is incredibly fulfilling. The ability to marry programming and art allows me to craft immersive gaming experiences that leave a lasting impact on players.</p>
-          <p>My journey took an unexpected turn when I worked as a barman at a board game bar. It was there that I joined an association of game creators, opening the door to new insights into game design and prototyping. This experience enriched my understanding of the gaming industry as a whole and reinforced my passion for building captivating games.</p>
-        </div>
-      </section>
+### Hello there!
+I'm John, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon Unity, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning C#. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors.
 
-      <section id="education">
-        <div class="content">
-          <div class="image-right">
-            <img src="images/avatar.jpg" alt="Education Image">
-          </div>
-          <h4>Continuous Learning</h4>
-          <p>In September 2022, I took my dedication to learning to the next level by enrolling at 42 School. This intensive learning experience exposed me to a wide range of programming languages, including C, Shell, C++, Docker, HTML, CSS, JavaScript, TypeScript, React, Nest, and MySQL. This diverse curriculum equipped me with a versatile skill set, enabling me to tackle complex challenges with confidence.</p>
-        </div>
-      </section>
+### Diverse Skill Set
+One thing that sets me apart is my diverse skill set. While exploring the world of code, I also discovered my talent for digital art and e-painting. The thrill of seeing my drawings come alive on the screen when imported into the games I create is incredibly fulfilling. The ability to marry programming and art allows me to craft immersive gaming experiences that leave a lasting impact on players.
 
-      <section id="experience">
-        <div class="content">
-          <h4>Game Development and Game Jam</h4>
-          <p>I'm eager to embark on my professional journey and put my skills to use in the gaming industry. This same year, I seized the opportunity to participate in a Game Jam and experimented with the Godot Game Engine, gaining hands-on experience and refining my abilities.</p>
-        </div>
-      </section>
+My journey took an unexpected turn when I worked as a barman at a board game bar. It was there that I joined an association of game creators, opening the door to new insights into game design and prototyping. This experience enriched my understanding of the gaming industry as a whole and reinforced my passion for building captivating games.
+![Avatar](/images/avatar.jpg)
 
-      <section id="passion">
-        <div class="content">
-          <div class="image-left">
-            <img src="images/avatar.jpg" alt="Education Image">
-          </div>
-          <h4>A Passion for UI/UX Design</h4>
-          <p>In addition to my expertise in game development, I recognize the significance of UI and UX design in creating captivating experiences. I'm determined to sharpen my skills in this domain, ensuring that every game I work on delights players and leaves a lasting impression.</p>
-        </div>
-      </section>
+### Continuous Learning
+In September 2022, I took my dedication to learning to the next level by enrolling at 42 School. This intensive learning experience exposed me to a wide range of programming languages, including C, Shell, C++, Docker, HTML, CSS, JavaScript, TypeScript, React, Nest, and MySQL. This diverse curriculum equipped me with a versatile skill set, enabling me to tackle complex challenges with confidence.
+![Avatar](/images/avatar.jpg)
 
-      <section id="strengths">
-        <div class="content">
-          <h4>Strengths and Vision</h4>
-          <p>One of my strengths lies in implementing game mechanics that can be easily expanded, and I take pride in understanding the bigger picture of a project from its inception. This holistic approach allows me to contribute to every aspect of a game's development, from ideation to execution.</p>
-        </div>
-      </section>
+### Game Development and Game Jam
+I'm eager to embark on my professional journey and put my skills to use in the gaming industry. This same year, I seized the opportunity to participate in a Game Jam and experimented with the Godot Game Engine, gaining hands-on experience and refining my abilities.
+![Avatar](/images/avatar.jpg)
 
-      <section id="conclusion">
-        <div class="content">
-          <div class="image-right">
-            <img src="images/avatar.jpg" alt="Education Image">
-          </div>
-          <h4>In short</h4>
-          <p>Overall, I am a creative individual with a deep passion for programming and game development. My journey has taught me valuable skills and insights, and I am excited to apply them in making a positive impact on the gaming industry.</p>
-        </div>
-      </section>
-    </section>
+### A Passion for UI/UX Design
+In addition to my expertise in game development, I recognize the significance of UI and UX design in creating captivating experiences. I'm determined to sharpen my skills in this domain, ensuring that every game I work on delights players and leaves a lasting impression.
+![Avatar](/images/avatar.jpg)
 
-  </div>
+### Strengths and Vision</h4>
+One of my strengths lies in implementing game mechanics that can be easily expanded, and I take pride in understanding the bigger picture of a project from its inception. This holistic approach allows me to contribute to every aspect of a game's development, from ideation to execution.
 
-  <footer>
-    <section id="contact">
-      <div class="content">
-        <p><strong>Email:</strong> bonneval.raphael@gmail.com</p>
-        <p><strong>Phone:</strong> (+33) 7 58 62 97 61</p>
-        <p>Raphael Bonneval | &copy; G-Raffiti | &copy; MiniGraffiti</p>
-      </div>
-    </section>
-  </footer>
+### In short
+Overall, I am a creative individual with a deep passion for programming and game development. My journey has taught me valuable skills and insights, and I am excited to apply them in making a positive impact on the gaming industry.</p>
 
-</body>
-</html>
+Email: bonneval.raphael@gmail.com
+Phone: (+33) 7 58 62 97 61
+Raphael Bonneval | &copy; G-Raffiti | &copy; MiniGraffiti
