@@ -1,14 +1,13 @@
-# Raphael Bonneval's Portfolio
-### Computer Science Student | Aspiring Game Developer | Aspiring Artist
+# Computer Science Student | Aspiring Game Developer | Aspiring Artist
 
 
-## Projects
+# Projects
 Description of your first game project. You can also include screenshots or demo links here.
 
-## Artwork Showcase</h3>
+# Artwork Showcase</h3>
 Showcase some of your creative artwork. You can use images to display your drawings or digital art.
 
-## About Me:
+# About Me:
 ### Hello there!
 I'm Raphael, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon Unity, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning C#. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors.
 
@@ -38,7 +37,9 @@ One of my strengths lies in implementing game mechanics that can be easily expan
 ### In short
 Overall, I am a creative individual with a deep passion for programming and game development. My journey has taught me valuable skills and insights, and I am excited to apply them in making a positive impact on the gaming industry.
 
-## Contact
+
+
+# Contact
 Email: bonneval.raphael@gmail.com
 
 Phone: (+33) 7 58 62 97 61
