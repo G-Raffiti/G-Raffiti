@@ -13,7 +13,9 @@ My journey took an unexpected turn when I worked as a barman at a board game bar
 
 ### Continuous Learning
 In September 2022, I took my dedication to learning to the next level by enrolling at 42 School. This intensive learning experience exposed me to a wide range of programming languages, including C, Shell, C++, Docker, HTML, CSS, JavaScript, TypeScript, React, Nest, and MySQL. This diverse curriculum equipped me with a versatile skill set, enabling me to tackle complex challenges with confidence.
-<p align="center">[![rbonneva's 42 stats](https://badge42.vercel.app/api/v2/cll59ld8m006108mjv2vh4x5g/stats?cursusId=21&coalitionId=302)](https://github.com/JaeSeoKim/badge42)</p>
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cll59ld8m006108mjv2vh4x5g/stats?cursusId=21&coalitionId=302" alt="rbonneva's 42 stats" /></a>
+</p>
 
 
 ### Game Development and Game Jam
