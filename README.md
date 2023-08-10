@@ -2,7 +2,7 @@
 
 # About Me:
 ### Hello there!
-I'm Raphael, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon <img alt="Unity" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" />, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning <img alt="C#" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors.
+I'm Raphael, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon <img alt="Unity" height="20px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning <img alt="C#" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors.
 
 
 ### Diverse Skill Set
