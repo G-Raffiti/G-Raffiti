@@ -47,11 +47,9 @@
 <p>Overall, I am a creative individual with a deep passion for programming and game development. My journey has taught me valuable skills and insights, and I am excited to apply them in making a positive impact on the gaming industry.</p>
 <br>
 <h2> Contact </h2>
-<p align="center">
-    <a src="https://www.tumblr.com/minigraffiti"> <img alt="tumblr" width="30px" src="https://www.svgrepo.com/show/66655/tumblr-logo.svg"> </a>
-    <a src="https://github.com/G-Raffiti"> <img alt="Github" width="30px" src="https://www.svgrepo.com/show/512317/github-142.svg"> </a>
-    <a src="https://g-raffiti.itch.io"> <img alt="itch-io" width="30px" src="https://www.svgrepo.com/show/341939/itch-io.svg"> </a>
-    <a src="https://www.codingame.com/profile/5b7a1686fc62a088f91e803f79c9a3128456225"> <img alt="itch-io" width="50px" src="https://www.svgrepo.com/show/330199/codingame.svg"> </a>
+<p align="center" class="text-center">
+    <a href="https://www.tumblr.com/minigraffiti" target="_blank"><img alt="tumblr" width="30px" src="https://www.svgrepo.com/show/66655/tumblr-logo.svg" title="tumblr"></a>
+    <a src="https://github.com/G-Raffiti" href="https://github.com/G-Raffiti" target="_blank"> <img alt="Github" width="30px" src="https://www.svgrepo.com/show/512317/github-142.svg" title="Github"></a>&nbsp;<a src="https://g-raffiti.itch.io" href="https://g-raffiti.itch.io"><img alt="itch-io" width="30px" src="https://www.svgrepo.com/show/341939/itch-io.svg" title="itch-io"></a>&nbsp;<a src="https://www.codingame.com/profile/5b7a1686fc62a088f91e803f79c9a3128456225" href="https://www.codingame.com/profile/5b7a1686fc62a088f91e803f79c9a3128456225" target="_blank"><img alt="itch-io" width="50px" src="https://www.svgrepo.com/show/330199/codingame.svg" title="itch-io"> </a>
     <br>
     Email: bonneval.raphael@gmail.com <br>
     Raphael Bonneval | &copy; G-Raffiti | &copy; MiniGraffiti <br>
