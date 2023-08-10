@@ -15,6 +15,13 @@ My journey took an unexpected turn when I worked as a barman at a board game bar
 In September 2022, I took my dedication to learning to the next level by enrolling at 42 School. This intensive learning experience exposed me to a wide range of programming languages. This diverse curriculum equipped me with a versatile skill set, enabling me to tackle complex challenges with confidence.
 <p align="center">
   <img alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="CSS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+    <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+</p>
+<p align="center">
   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" />
   <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
