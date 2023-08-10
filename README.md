@@ -2,7 +2,7 @@
 
 # About Me:
 ### Hello there!
-I'm Raphael, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon <img alt="Unity" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/2560px-Unity_2021.svg.png#gh-light-mode-only" /><img alt="Unity" height="20px" src="https://unity-web-prd.cdn.unity.cn/assets/styles/i/svgicons/icons-unity-logo.cf0ab2f6a3ada11f83b05bad86d7be09.svg#gh-dark-mode-only" />, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning <img alt="C#" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors.
+I'm Raphael, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon Unity<img alt="Unity" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/2560px-Unity_2021.svg.png#gh-light-mode-only" />, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning <img alt="C#" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors.
 
 
 ### Diverse Skill Set
@@ -12,8 +12,13 @@ My journey took an unexpected turn when I worked as a barman at a board game bar
 
 
 ### Continuous Learning
-In September 2022, I took my dedication to learning to the next level by enrolling at 42 School. This intensive learning experience exposed me to a wide range of programming languages, including C, Shell, C++, Docker, HTML, CSS, JavaScript, TypeScript, React, Nest, and MySQL. This diverse curriculum equipped me with a versatile skill set, enabling me to tackle complex challenges with confidence.
+In September 2022, I took my dedication to learning to the next level by enrolling at 42 School. This intensive learning experience exposed me to a wide range of programming languages. This diverse curriculum equipped me with a versatile skill set, enabling me to tackle complex challenges with confidence.
 <p align="center">
+  <img alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" />
+  <img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
+  
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cll59ld8m006108mjv2vh4x5g/stats?cursusId=21&coalitionId=302" alt="rbonneva's 42 stats" /></a>
 </p>
 
