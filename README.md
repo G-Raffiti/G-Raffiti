@@ -8,8 +8,6 @@ I'm Raphael, a passionate and driven game developer with a love for creative art
 ### Diverse Skill Set
 One thing that sets me apart is my diverse skill set. While exploring the world of code, I also discovered my talent for digital art and e-painting (mostly in Krita <img alt="Krita" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Krita_Application_Logo.svg" /> and Photshop <img alt="Photoshop" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />). The thrill of seeing my drawings come alive on the screen when imported into the games I create is incredibly fulfilling. The ability to marry programming and art allows me to craft immersive gaming experiences that leave a lasting impact on players.
 
-My journey took an unexpected turn when I worked as a barman at a board game bar. It was there that I joined an association of game creators, opening the door to new insights into game design and prototyping. This experience enriched my understanding of the gaming industry as a whole and reinforced my passion for building captivating games.
-
 
 ### Continuous Learning
 In September 2022, I took my dedication to learning to the next level by enrolling at 42 School. This intensive learning experience exposed me to a wide range of programming languages. This diverse curriculum equipped me with a versatile skill set, enabling me to tackle complex challenges with confidence.
@@ -52,6 +50,5 @@ Overall, I am a creative individual with a deep passion for programming and game
 <p align="center">
 Tumblr: <a src="https://www.tumblr.com/minigraffiti"> <img alt="MiniGraffiti" width="50px" src="https://64.media.tumblr.com/bb75565e714cbe86fe3e8793fb7e3447/bfcadb490af0b345-e8/s2048x3072/d3d4f676b415ef89883b31f7e9e280b2ba59e664.jpg" /> </a> <br>
 Email: bonneval.raphael@gmail.com <br>
-Phone: (+33) 7 58 62 97 61 <br>
 Raphael Bonneval | &copy; G-Raffiti | &copy; MiniGraffiti <br>
 </p>
