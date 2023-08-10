@@ -1,15 +1,10 @@
 # Computer Science Student | Aspiring Game Developer | Aspiring Artist
 
-
-# Projects
-Description of your first game project. You can also include screenshots or demo links here.
-
-# Artwork Showcase</h3>
-Showcase some of your creative artwork. You can use images to display your drawings or digital art.
-
 # About Me:
 ### Hello there!
-I'm Raphael, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon Unity, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning C#. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors.
+I'm Raphael, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon Unity, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning 
+<img alt="C#" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors.
 
 
 ### Diverse Skill Set
