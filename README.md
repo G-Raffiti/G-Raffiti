@@ -2,7 +2,7 @@
 
 # About Me:
 ### Hello there!
-I'm Raphael, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon <img alt="Unity" width="20px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning <img alt="C#" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors.
+I'm Raphael, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon <img alt="Unity" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" />, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning <img alt="C#" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors.
 
 
 ### Diverse Skill Set
@@ -13,6 +13,7 @@ My journey took an unexpected turn when I worked as a barman at a board game bar
 
 ### Continuous Learning
 In September 2022, I took my dedication to learning to the next level by enrolling at 42 School. This intensive learning experience exposed me to a wide range of programming languages, including C, Shell, C++, Docker, HTML, CSS, JavaScript, TypeScript, React, Nest, and MySQL. This diverse curriculum equipped me with a versatile skill set, enabling me to tackle complex challenges with confidence.
+[![rbonneva's 42 stats](https://badge42.vercel.app/api/v2/cll59ld8m006108mjv2vh4x5g/stats?cursusId=21&coalitionId=302)](https://github.com/JaeSeoKim/badge42)
 
 
 ### Game Development and Game Jam
