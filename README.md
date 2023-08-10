@@ -1,4 +1,4 @@
-<h1> Computer Science Student | Aspiring Game Developer | Aspiring Artist</h1>
+<h1> Computer Science Student | Aspiring Game Developer</h1>
 <br>
 <h2> About Me:</h2>
 <h3> Hello there! </h3>
@@ -23,6 +23,7 @@
 <p align="center">
     <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img alt="GitHub" width="30px" src="https://www.svgrepo.com/show/512317/github-142.svg">
+    <img alt="Docker" width="30px" src="https://www.svgrepo.com/show/452192/docker.svg">
 </p>
 <br>
 <h3> Game Development and Game Jam </h3>
