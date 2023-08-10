@@ -21,9 +21,11 @@
     <img src="https://badge42.vercel.app/api/v2/cll59ld8m006108mjv2vh4x5g/stats?cursusId=21&coalitionId=302" alt="rbonneva's 42 stats">
 </p>
 <p align="center">
+    Technologie I'm using in projects:
     <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img alt="GitHub" width="30px" src="https://www.svgrepo.com/show/512317/github-142.svg">
     <img alt="Docker" width="30px" src="https://www.svgrepo.com/show/452192/docker.svg">
+    <img alt="trello" width="30px" src="https://www.svgrepo.com/show/475688/trello-color.svg">
 </p>
 <br>
 <h3> Game Development and Game Jam </h3>
