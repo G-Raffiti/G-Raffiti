@@ -39,9 +39,10 @@
 <br>
 <h2> Contact </h2>
 <p align="center">
-    <a src="https://www.tumblr.com/minigraffiti"> <img alt="tumblr" width="30px" src="https://www.svgrepo.com/show/66655/tumblr-logo.svg"> </a>   
-    <a src="https://github.com/G-Raffiti"> <img alt="Github" width="30px" src="https://www.svgrepo.com/show/512317/github-142.svg"> </a>   
+    <a src="https://www.tumblr.com/minigraffiti"> <img alt="tumblr" width="30px" src="https://www.svgrepo.com/show/66655/tumblr-logo.svg"> </a>
+    <a src="https://github.com/G-Raffiti"> <img alt="Github" width="30px" src="https://www.svgrepo.com/show/512317/github-142.svg"> </a>
     <a src="https://g-raffiti.itch.io"> <img alt="itch-io" width="30px" src="https://www.svgrepo.com/show/341939/itch-io.svg"> </a>
+    <a src="https://www.codingame.com/profile/5b7a1686fc62a088f91e803f79c9a3128456225"> <img alt="itch-io" height="30px" src="https://www.svgrepo.com/show/330199/codingame.svg"> </a>
     <br>
     Email: bonneval.raphael@gmail.com <br>
     Raphael Bonneval | &copy; G-Raffiti | &copy; MiniGraffiti <br>
