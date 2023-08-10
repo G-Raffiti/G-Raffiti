@@ -49,9 +49,9 @@ Overall, I am a creative individual with a deep passion for programming and game
 
 
 # Contact
-Tumblr: <a src="https://www.tumblr.com/minigraffiti"> <img alt="MiniGraffiti" width="50px" src="https://64.media.tumblr.com/bb75565e714cbe86fe3e8793fb7e3447/bfcadb490af0b345-e8/s2048x3072/d3d4f676b415ef89883b31f7e9e280b2ba59e664.jpg" /> </a>
-Email: bonneval.raphael@gmail.com
-
-Phone: (+33) 7 58 62 97 61
-
-Raphael Bonneval | &copy; G-Raffiti | &copy; MiniGraffiti
+<p align="center">
+Tumblr: <a src="https://www.tumblr.com/minigraffiti"> <img alt="MiniGraffiti" width="50px" src="https://64.media.tumblr.com/bb75565e714cbe86fe3e8793fb7e3447/bfcadb490af0b345-e8/s2048x3072/d3d4f676b415ef89883b31f7e9e280b2ba59e664.jpg" /> </a> <br>
+Email: bonneval.raphael@gmail.com <br>
+Phone: (+33) 7 58 62 97 61 <br>
+Raphael Bonneval | &copy; G-Raffiti | &copy; MiniGraffiti <br>
+</p>
