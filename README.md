@@ -1,8 +1,8 @@
 <h1> Computer Science Student | Aspiring Game Developer</h1>
 <br>
 <h2> About Me:</h2>
-<h3> Hello there! </h3>
-<p>I'm Raphael, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon Unity <img alt="Unity" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/2560px-Unity_2021.svg.png#gh-light-mode-only">, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning <img alt="C#" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors.</p>
+<h3> Hello world! </h3>
+<p>I'm Raphael, a passionate and driven game developer with a love for creative art. My journey with programming began in 2020 when I stumbled upon Unity <img alt="Unity" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/2560px-Unity_2021.svg.png#gh-light-mode-only">, and it was love at first sight. For the next two years, I immersed myself in the world of game development, following online tutorials, and learning <img alt="C#" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">. Though I didn't complete any projects during that time, the knowledge I gained was a solid foundation for my future endeavors. <a src="https://g-raffiti.itch.io" href="https://g-raffiti.itch.io"><p>HERE ARE MY GAMES !</p></a></p>
 <br>
 <h3> Diverse Skill Set </h3>
 <p>One thing that sets me apart is my diverse skill set. While exploring the world of code, I also discovered my talent for digital art and e-painting (mostly in Krita <img alt="Krita" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Krita_Application_Logo.svg"> and Photshop <img alt="Photoshop" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">). The thrill of seeing my drawings come alive on the screen when imported into the games I create is incredibly fulfilling. The ability to marry programming and art allows me to craft immersive gaming experiences that leave a lasting impact on players.</p>
@@ -16,9 +16,6 @@
     <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</p>
-<p align="center">
-    <img src="https://badge42.vercel.app/api/v2/cll59ld8m006108mjv2vh4x5g/stats?cursusId=21&coalitionId=302" alt="rbonneva's 42 stats">
 </p>
 <p align="center">
     Technologie I'm using in projects:
